@@ -12,3 +12,4 @@ C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\obj\Debug\net9.0\refi
 C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\obj\Debug\net9.0\AntsProject.pdb
 C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\obj\Debug\net9.0\AntsProject.genruntimeconfig.cache
 C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\obj\Debug\net9.0\ref\AntsProject.dll
+C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\obj\Debug\net9.0\AntsProject.sourcelink.json

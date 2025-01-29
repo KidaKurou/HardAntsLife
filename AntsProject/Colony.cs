@@ -134,7 +134,7 @@ namespace AntsProject
                         Resources[resource.Type] += resource.Amount;
                     }
 
-                    // Console.WriteLine($"{worker.Type} Рабочий из колони {Name} собрал {string.Join(", ", gathered.Select(r => $"{r.Amount} {r.Type}"))} из кучи {randomPile.Index}");
+                    Console.WriteLine($"{worker.Type} Рабочий из колони {Name} собрал {string.Join(", ", gathered.Select(r => $"{r.Amount} {r.Type}"))} из кучи {randomPile.Index}");
                 }
             }
 

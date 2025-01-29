@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AntsProject.Bumblebee">
+    <Position X="15" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Insect\Bumblebee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntsProject.Dragonfly">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Insect\Dragonfly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntsProject.Insect">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAACAAAAAAAGAAAAAAAAAAAAAAAAABAAQAAggAAAAA=</HashCode>
+      <FileName>Insect\Insect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntsProject.LegendaryMythicalAnt">
+    <Position X="6.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAACAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Insect\LegendaryMythicalAnt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntsProject.SpecialInsect">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgACAAAAACAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Insect\SpecialInsect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntsProject.Queen">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="AntsProject.Queen.LarvaInfo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Insect\Queen\Queen.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="AntsProject.Queen.InsectType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Insect\Queen\Queen.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAAAgQCgAAAAEQAAhAIIABQIAAAQAACBCEAAAAAAQAE=</HashCode>
+      <FileName>Insect\Queen\Queen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntsProject.AdvancedHunterWarrior">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Insect\Warrior\AdvancedHunterWarrior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntsProject.LegendaryWarrior">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Insect\Warrior\LegendaryWarrior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntsProject.RegularToughWarrior">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Insect\Warrior\RegularToughWarrior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntsProject.RegularWarrior">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Insect\Warrior\RegularWarrior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntsProject.SeniorWarrior">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Insect\Warrior\SeniorWarrior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntsProject.Warrior">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgACAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Insect\Warrior\Warrior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntsProject.AdvancedForemanWorker">
+    <Position X="15" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Insect\Worker\AdvancedForemanWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntsProject.AdvancedPickpocketWorker">
+    <Position X="15" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Insect\Worker\AdvancedPickpocketWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntsProject.AdvancedWorker">
+    <Position X="15" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Insect\Worker\AdvancedWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntsProject.EliteWorker">
+    <Position X="15" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Insect\Worker\EliteWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntsProject.LegendaryWorker">
+    <Position X="15" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Insect\Worker\LegendaryWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntsProject.Worker">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAgAAAAAAAQAAAAAAAAAAACA=</HashCode>
+      <FileName>Insect\Worker\Worker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
