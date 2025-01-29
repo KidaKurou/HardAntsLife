@@ -1,0 +1,14 @@
+C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\bin\Debug\net9.0\AntsProject.exe
+C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\bin\Debug\net9.0\AntsProject.deps.json
+C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\bin\Debug\net9.0\AntsProject.runtimeconfig.json
+C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\bin\Debug\net9.0\AntsProject.dll
+C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\bin\Debug\net9.0\AntsProject.pdb
+C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\obj\Debug\net9.0\AntsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\obj\Debug\net9.0\AntsProject.AssemblyInfoInputs.cache
+C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\obj\Debug\net9.0\AntsProject.AssemblyInfo.cs
+C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\obj\Debug\net9.0\AntsProject.csproj.CoreCompileInputs.cache
+C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\obj\Debug\net9.0\AntsProject.dll
+C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\obj\Debug\net9.0\refint\AntsProject.dll
+C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\obj\Debug\net9.0\AntsProject.pdb
+C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\obj\Debug\net9.0\AntsProject.genruntimeconfig.cache
+C:\Users\artir\Desktop\University\DOLG\AntsWar\AntsProject\obj\Debug\net9.0\ref\AntsProject.dll
